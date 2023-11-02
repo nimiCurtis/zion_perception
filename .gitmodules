@@ -1,9 +1,14 @@
 [submodule "stair_modeling"]
 	path = stair_modeling
-	url = git@github.com:nimiCurtis/stair_modeling.git
+	# url = git@github.com:nimiCurtis/stair_modeling.git
+	url = https://github.com/nimiCurtis/stair_modeling.git
+
 [submodule "stair_detection/stair_detection"]
 	path = stair_detection/stair_detection
-	url = git@github.com:nimiCurtis/stair_detection.git
+	# url = git@github.com:nimiCurtis/stair_detection.git
+	url = https://github.com/nimiCurtis/stair_detection.git
+
 [submodule "stair_detection/stair_detection_ros"]
 	path = stair_detection/stair_detection_ros
-	url = git@github.com:nimiCurtis/stair_detection_ros.git
+	# url = git@github.com:nimiCurtis/stair_detection_ros.git
+	url = https://github.com/nimiCurtis/stair_detection_ros.git
